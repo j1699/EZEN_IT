@@ -1,0 +1,7 @@
+pip install flask
+cd C:\Users\ezen\Desktop\KMJ\server (cd: 디렉토리 이동)
+1) 서버를 여는 첫번째 방법
+set FLASK_APP=index
+flask run
+2) 서버를 여는 두번째 방법
+python index.py
